@@ -1,0 +1,4 @@
+GitRepositoriesView.GitDirectories=D\:\\XSEED POC\\IdentityService\\.git;D\:\\XSEED POC\\XseedApiGateway\\.git;D\:\\XSEED POC\\XseedServiceRegistry\\.git;
+GitRepositoriesView.GitDirectories.relative=IdentityService\\.git;XseedApiGateway\\.git;XseedServiceRegistry\\.git;
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1
